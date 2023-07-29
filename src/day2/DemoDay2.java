@@ -3,7 +3,7 @@ package day2;
 public class DemoDay2 {
 	
 	public static void main (String [] args) {
-		
+		System.out.println("JorgeB");
 		System.out.println("Test");
 	}
 	
@@ -23,3 +23,4 @@ public class DemoDay2 {
 	}
 
 }
+ 
